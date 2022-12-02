@@ -2,7 +2,7 @@ version: 3.0.0-rc.1
 slug: beta
 name: Genie - Pre-release
 description: The open-source, privacy-preserving voice assistant
-url: https://github.com/sobkas/almond-hassio-repository/blob/master/beta
+url: https://github.com/stanford-oval/almond-hassio-repository/blob/master/beta
 arch:
   - armv7
   - aarch64
